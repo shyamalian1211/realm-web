@@ -1,5 +1,5 @@
 {
-  "name": "test-realm",
+  "name": "realm-web",
   "version": "1.0.0",
   "description": "Authenticate and communicate with the Atlas Mongo App Services, from your web-browser",
   "main": "./dist/bundle.cjs.js",
